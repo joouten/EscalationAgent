@@ -2,7 +2,7 @@
 
 An AI-powered triage tool that analyzes enterprise support tickets and returns a structured escalation report with severity classification, ranked root causes, and diagnostic steps — all cited with official Microsoft documentation.
 
-Built by a 25-year Microsoft Premier Support veteran using the Anthropic Claude API and Python.
+Built by a Microsoft Tier 3 escalation engineer using the Anthropic Claude API and Python.
 
 ---
 
@@ -74,7 +74,7 @@ Run the agent:
 
 ## About
 
-Built as part of a 90-day AI engineering curriculum targeting Forward Deployed AI Engineer roles. The domain expertise driving this tool comes from 25 years of Tier 3 escalation engineering at Microsoft, supporting enterprise customers on Azure infrastructure.
+Built as part of a 90-day AI engineering curriculum targeting Forward Deployed AI Engineer roles. The domain expertise behind this tool comes from years of Tier 3 escalation engineering at Microsoft, supporting enterprise customers on Azure infrastructure.
 
 This project demonstrates:
 - Anthropic API integration with tool use
